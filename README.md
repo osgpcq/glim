@@ -81,6 +81,11 @@ disabled, so to skip any distribution, just don't create the directory.
 Download the right ISO images to the newly created directory. If you require
 different versions, or just part of a distribution, edit the appropriate
 `boot/grub2/inc-*.cfg` file.
+For some files we added:
+ * A version option to be able to boot not only the last version of the
+   distribution.
+ * If the computer has been started in UEFI mode to start the kernel and initrd
+   with the grub2 `efi` commands.
 
 Note that on 32bit computers, all 64bit entries will be automatically hidden.
 
