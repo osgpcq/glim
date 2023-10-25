@@ -4,6 +4,13 @@ GRUB2 Live ISO Multiboot
 https://github.com/thias/glim | http://glee.thias.es/GLIM
 
 
+OSGPCQ
+------
+
+Some pull requests are not accepted by the maintener but I still love it so here
+is the branch where I keep my personal changes.
+
+
 Overview
 --------
 
